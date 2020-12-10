@@ -8,3 +8,5 @@
 4.Negative/inverse effect
 5.Gaussian Blur
 6.Pencil sketch
+7.Warming effect
+8.Cooling effect
